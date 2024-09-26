@@ -81,7 +81,7 @@ To use the model to predict heart attack risk for new data, follow these steps:
     with open('Energy_prediction.pkl', 'rb') as file:
         rf1 = pickle.load(file)
 
-    with open('scaler.pkl', 'rb') as file:
+    with open('Energy_prediction.pkl', 'rb') as file:
         scaler = pickle.load(file)
     ```
 
