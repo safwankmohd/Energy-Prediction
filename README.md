@@ -63,8 +63,7 @@ To use the model to predict heart attack risk for new data, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/heart-attack-risk-prediction.git
-    cd heart-attack-risk-prediction
+    git clone https://github.com/safwankmohd/Energy-Prediction.git
     ```
 
 2. Install the required packages:
